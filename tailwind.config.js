@@ -10,6 +10,10 @@ export default {
         secondary: "#dddbff",
         accent: "#443dff",
       },
+      fontFamily: {
+        DMSerif: ["DM Serif Display", "serif"],
+        DMSans: ["DM Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
